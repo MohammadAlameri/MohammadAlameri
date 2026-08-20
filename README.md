@@ -38,11 +38,11 @@ With over **3 years of experience** in software engineering, I specialize in cra
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAlameri&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io/MohammadAlameri?template=classic&config_timezone=Asia/Riyadh&base=header,activity,repositories,metadata&theme=tokyonight" alt="GitHub Metrics" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAlameri&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAlameri&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=MohammadAlameri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
