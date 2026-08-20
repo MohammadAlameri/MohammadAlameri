@@ -14,18 +14,18 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 With over **3 years of experience** in software engineering, I specialize in crafting high-performance, cross-platform applications using **Flutter** and **Dart**. I focus on delivering seamless UI/UX, robust data tracking, and scalable backend solutions for complex systems.
 
-- 🏗️ **Currently building:** A scalable **bus ticket booking system** 🚌, alongside **AI marketing consultant agents** designed to handle high-volume product catalogs (26,000+ items).
-- ⚙️ **Focusing on:** Advanced Flutter performance optimization, e-commerce platform integrations (Zid & Salla), and comprehensive event tracking pipelines using **Supabase** and **PostHog**.
-- 📱 **Exploring:** Native Android development with **Kotlin** and leveraging LLMs to automate business operations.
-- 💬 **Ask me about:** Flutter, Firebase, Supabase, data analytics (GA4/PostHog), and mobile system design.
+-  **Currently building:** A scalable **bus ticket booking system** 🚌, alongside **AI marketing consultant agents** designed to handle high-volume product catalogs (26,000+ items).
+-  **Focusing on:** Advanced Flutter performance optimization, e-commerce platform integrations (Zid & Salla), and comprehensive event tracking pipelines using **Supabase** and **PostHog**.
+-  **Exploring:** Native Android development with **Kotlin** and leveraging LLMs to automate business operations.
+-  **Ask me about:** Flutter, Firebase, Supabase, data analytics (GA4/PostHog), and mobile system design.
 
 ---
 
-### 💻 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@ With over **3 years of experience** in software engineering, I specialize in cra
 
 ---
 
-### 📊 GitHub Activity & Stats
+###  GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MohammadAlameri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -44,7 +44,7 @@ With over **3 years of experience** in software engineering, I specialize in cra
 
 ---
 
-### 📈 Contribution History
+###  Contribution History
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadAlameri&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=3d59a1&area=true&hide_border=true" alt="Mohammad's Activity Graph" />
